@@ -21,7 +21,6 @@ public:
         for (int i = 0; i < count; i++){
             nums[i] = arr[i];
         }
-
         return count;
     }
 };
