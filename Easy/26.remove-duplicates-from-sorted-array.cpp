@@ -17,7 +17,6 @@ public:
                 arr[count ++] = nums[i];
             }
         }
-
         for (int i = 0; i < count; i++){
             nums[i] = arr[i];
         }
